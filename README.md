@@ -1,8 +1,8 @@
 # Data Diri
 
-Nama : Zizantara Arzeva Cakra Kahana
+Nama : Nurul fadilah
 
-NIM : 312410398
+NIM :312410689 
 
 Kelas : TI,24.A.3
 
